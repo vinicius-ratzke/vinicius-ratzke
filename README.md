@@ -7,7 +7,7 @@
   <p><b><i>live in the night</i></b></p> <br><br>
 
 
-   ![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-ratzke&show_icons=true&theme=tokyonight) <br>
+   ![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-ratzke&show_icons=true&theme=tokyonight) <br> <br>
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-ratzke&theme=tokyonight)
 
    [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black" />](https://twitter.com/Vinixdddd)[<img src =            "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=black">](https://www.instagram.com/viniratzke/) [<img src =          "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=black">](https://www.facebook.com/vinicius.ratzkeservelo) [<img src    =  "https://img.shields.io/badge/discord-%231877F2.svg?&style=for-the-badge&logo=discord&logoColor=black">](https://discord.com/users/371069087171870730/)
