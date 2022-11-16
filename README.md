@@ -4,11 +4,8 @@
 
 
 <div id="header2" align="center">
-  <p><b><i>live in the night</i></b></p>
-  <h3> . </h3>
-  <h3> . </h3>
-  <h3> . </h3> <br>
- 
+  <p><b><i>live in the night</i></b></p> <br><br>
+
 
    ![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-ratzke&show_icons=true&theme=tokyonight)
 
@@ -26,14 +23,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="45" height="45"/></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="45" height="45"/></p> <br><br>
 
-<div id="header3" align="center">
- <b> <i>
- <h3> . </h3>
- <h3> . </h3>
- <h3> . </h3> <br>
-  </b> </i>
+
   
   
 <div id="header4" align="center">
