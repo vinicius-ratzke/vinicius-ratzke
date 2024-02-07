@@ -1,11 +1,11 @@
-<div id="header" align="center">
+<!---<div id="header" align="center">
   <img src="https://i.pinimg.com/originals/22/da/c7/22dac70c412e3afdb923eaf4cc6b9d59.gif"/>
 </div>
 
 
 <div id="header2" align="center">
-  <p><b><i>live in the night</i></b></p> <br><br>
-
+  <p><b><i>live in the night</i></b></p> <br><br>--->
+<div id="header2" align="center">
 
    ![Vini's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vinicius-ratzke&show_icons=true&theme=tokyonight) <br> <br>
    ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinicius-ratzke&theme=tokyonight)
@@ -29,7 +29,7 @@
 
   
   
-<div id="header4" align="center">
+<!---<div id="header4" align="center">
   <p><b><i>until the day gets better</i></b></p>
   <img src="https://preview.redd.it/asxhfnvdvmb21.gif?width=540&auto=webp&s=7886a90135eb411f1dcb64c6df49d87651b22c20"/>
 </div>
